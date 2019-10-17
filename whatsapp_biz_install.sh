@@ -7,7 +7,7 @@
 # check out the changelog link above for the most current WA_API_VERSION
 # replace the variables wrapped around {{ }}
 
-mkdir ~/biz && cd ~/biz && \
+mkdir /vagrant/biz && cd /vagrant/biz && \
 git clone https://github.com/WhatsApp/WhatsApp-Business-API-Setup-Scripts.git && \
 cp WhatsApp-Business-API-Setup-Scripts/installation/db.env ./ && \
 cp WhatsApp-Business-API-Setup-Scripts/installation/docker-compose.yml ./ && \
