@@ -2,7 +2,7 @@
 
 Use this repository to seamlessly configure a single-instance development environment for WhatsApp Biz API.
 
-The objective is to automatically set up the WhatsApp Biz API environment and provide you with tbe authentication token
+The objective is to automatically set up the WhatsApp Biz API environment and provide you with the authentication token
 to interact with the API end points.
 
 I'm assuming the default db provided by WhatsApp. If you want to use your own db, read the _further information_ section.
